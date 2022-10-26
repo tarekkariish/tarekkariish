@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @tarekkariish
-- 👀 I’m interested in Web Design and Frontend Development
-- 🌱 I’m currently learning Both :)
+- 👀 I’m interested in IT Support, Web Design and Frontend Development
+- 🌱 I’m currently a Teaching Assistant at PowerCoders :)
 - 📫 How to reach me " tarek.kariish@powercoders.org "
